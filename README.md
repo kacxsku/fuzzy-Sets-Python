@@ -1,6 +1,6 @@
 # fuzzy-Sets-Python
 
-##Fuzzy sets Models
+##F uzzy sets Models
 
 I've used two Models:
 - Mandani Model
